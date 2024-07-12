@@ -1,0 +1,16 @@
+.skills {
+    padding-top: 1900px;
+    overflow: hidden;
+    width: 100%;
+    height: 200px;
+    position: relative;
+}
+
+.skills-container{
+    position: relative;
+}
+
+.skill-item {
+    position: absolute;
+    margin-left: -120px;
+}
