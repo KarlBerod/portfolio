@@ -1,90 +1,146 @@
 [
     {
         "id": "c67ab8a7",
-        "name": "Booki",
-        "title": "blablabla",
-        "description": "blablablablablablablablablablablablablablablablablabla",
+        "title": "Booki",
+        "description": "Ce projet a pour but de développer une interface responsive desktop-first fidèle à une maquette figma en utilisant les languages HTML et CSS. ",
+        "skills":[
+            "-Lire une maquette figma",
+            "-Découper une maquette",
+            "-Respecter un cahier des charges",
+            "-Modifier un code déjà existant"
+        ],
         "pictures":[
-            "../../images/imageBooki1.webp",
-            "../../images/imageBooki2.webp"
+            "../../images/booki1.webp",
+            "../../images/booki2.webp",
+            "../../images/booki3.webp",
+            "../../images/booki4.webp"
         ],
         "github-link": "https://github.com/KarlBerod/Projet3_OC"
     },
     {
         "id": "b9123946",
-        "name": "OhMyFood",
-        "title": "blablabla",
-        "description": "blablablablablablablablablablablablablablablablablabla",
+        "title": "OhMyFood",
+        "description": "Ce projet a pour but de développer un site en approche mobile-first à l'aide de sass.",
+        "skills":[
+            "-Utilisation de Sass",
+            "-Implémentation d'animations basiques en css",
+            "-Intégrer une maquette en mobile-first"
+        ],
         "pictures":[
-            "../../images/imageBooki1.webp",
-            "../../images/imageBooki2.webp"
+            "../../images/ohmyfood1.webp",
+            "../../images/ohmyfood2.webp",
+            "../../images/ohmyfood3.webp",
+            "../../images/ohmyfood4.webp",
+            "../../images/ohmyfood5.webp",
+            "../../images/ohmyfood6.webp"
         ],
         "github-link": "https://github.com/KarlBerod/Projet4_OC"
     },
     {
         "id": "46d188c5",
-        "name": "Sophie Bluel",
-        "title": "blablabla",
-        "description": "blablablablablablablablablablablablablablablablablabla",
+        "title": "Sophie Bluel",
+        "description": "Ce projet est une première approche d'un site développé avec JavaScript utilisant une API",
+        "skills":[
+            "-Utilisation de JavaScript",
+            "-Faire des appels à une API avec JavaScript"
+        ],
         "pictures":[
-            "../../images/imageBooki1.webp",
-            "../../images/imageBooki2.webp"
+            "../../images/sophieBluel1.webp",
+            "../../images/sophieBluel2.webp",
+            "../../images/sophieBluel3.webp",
+            "../../images/sophieBluel4.webp",
+            "../../images/sophieBluel5.webp"
         ],
         "github-link": "https://github.com/KarlBerod/Projet6_OC"
     },
     {
         "id": "7af00cd6",
-        "name": "Booki",
-        "title": "blablabla",
-        "description": "blablablablablablablablablablablablablablablablablabla",
-        "pictures":[
-            "../../images/imageBooki1.webp",
-            "../../images/imageBooki2.webp"
+        "title": "MenuMaker by Qwenta",
+        "description": "Ce projet a pour but de mener à bien le rôle d'un chef de projet",
+        "skills":[
+            "-Réaliser une veille technologique pour bien choisir les technologies à utiliser",
+            "-Découper le projet en tâches individuelles",
+            "-Utiliser un outil de gestion de projet (Trello)"
         ],
-        "github-link": "https://github.com/KarlBerod/Projet3_OC"
+        "pictures":[
+            "../../images/qwenta1.webp",
+            "../../images/qwenta2.webp",
+            "../../images/qwenta3.webp"
+        ],
+        "github-link": "https://github.com/KarlBerod/Projet7_OC"
     },
     {
         "id": "0979876d",
-        "name": "Booki",
-        "title": "blablabla",
-        "description": "blablablablablablablablablablablablablablablablablabla",
-        "pictures":[
-            "../../images/imageBooki1.webp",
-            "../../images/imageBooki2.webp"
+        "title": "Kasa",
+        "description": "Ce projet est une première approche de développement d'une application immobilière avec React",
+        "skills":[
+            "-Utilisation de React et React Router",
+            "-Savoir découper une maquette en plusieurs composants React réutilisables",
+            "-Utilisation d'un fichier JSON pour simuler un back-end",
+            "-Création d'animations basique en combinant React et CSS"
         ],
-        "github-link": "https://github.com/KarlBerod/Projet3_OC"
+        "pictures":[
+            "../../images/kasa1.webp",
+            "../../images/kasa2.webp",
+            "../../images/kasa3.webp",
+            "../../images/kasa4.webp",
+            "../../images/kasa5.webp",
+            "../../images/kasa6.webp"
+        ],
+        "github-link": "https://github.com/KarlBerod/Projet8_OC"
     },
     {
         "id": "f72a452f",
-        "name": "Booki",
-        "title": "blablabla",
-        "description": "blablablablablablablablablablablablablablablablablabla",
-        "pictures":[
-            "../../images/imageBooki1.webp",
-            "../../images/imageBooki2.webp"
+        "title": "Portfolio de la photographe Nina Carducci",
+        "description": "Ce projet vise à améliorer la performance, le référencement et l'accessibilité d'un site web déjà existant",
+        "skills":[
+            "-Utilisation d'outils tels que Lighthouse ou Wave",
+            "-Utilisation de Gimp pour redimensionner et changer le format des images",
+            "-Implémentation de micro-données et de résultats enrichis",
+            "-Connaissance des bonnes pratiques de développement Web"
         ],
-        "github-link": "https://github.com/KarlBerod/Projet3_OC"
+        "pictures":[
+            "../../images/nina1.webp",
+            "../../images/nina2.webp",
+            "../../images/nina3.webp",
+            "../../images/nina4.webp"
+        ],
+        "github-link": "https://github.com/KarlBerod/Projet9_OC"
     },
     {
         "id": "b4c67936",
-        "name": "Booki",
-        "title": "blablabla",
-        "description": "blablablablablablablablablablablablablablablablablabla",
-        "pictures":[
-            "../../images/imageBooki1.webp",
-            "../../images/imageBooki2.webp"
+        "title": "724Events",
+        "description": "Ce projet a pour but de débuguer un site web déjà existant qui n'a pas pu être terminé par le développeur précedent",
+        "skills":[
+            "-Utilisation de ReactDevTools",
+            "-Identifier et localiser les bugs",
+            "-Rédiger un cahier de recette",
+            "-Mettre en place des tests unitaires et fonctionnels"
         ],
-        "github-link": "https://github.com/KarlBerod/Projet3_OC"
+        "pictures":[
+            "../../images/724events1.webp",
+            "../../images/724events2.webp",
+            "../../images/724events3.webp"
+        ],
+        "github-link": "https://github.com/KarlBerod/Projet10_OC"
     },
     {
         "id": "bc6f7112",
-        "name": "Booki",
-        "title": "blablabla",
-        "description": "blablablablablablablablablablablablablablablablablabla",
-        "pictures":[
-            "../../images/imageBooki1.webp",
-            "../../images/imageBooki2.webp"
+        "title": "ArgentBank",
+        "description": "Ce projet a pour but l'implémentation d'une application bancaire en utilisant react et redux, puis documenter l'api pour le futur du site",
+        "skills":[
+            "-Utilisation du store de Redux pour gérer l'état global de l'application",
+            "-Transformer un site web codé en HTML en site web React",
+            "-Elaborer un diagramme de classe à partir d'une image ou d'un croquis",
+            "-Documenter une API avec swagger"
         ],
-        "github-link": "https://github.com/KarlBerod/Projet3_OC"
+        "pictures":[
+            "../../images/argent_bank1.webp",
+            "../../images/argent_bank2.webp",
+            "../../images/argent_bank3.webp",
+            "../../images/argent_bank4.webp",
+            "../../images/argent_bank5.webp"
+        ],
+        "github-link": "https://github.com/KarlBerod/argent_bank"
     }  
 ]

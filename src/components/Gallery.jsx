@@ -64,7 +64,8 @@ export default function Gallery(){
 
     useEffect(() => {
         const tl = gsap.timeline({onComplete: () => addScrollTrigger()});
-        tl.to(".project-card", { y: -100, ease: "slow", duration: 1}, "+=1.5");
+        tl.to(".project-card", { x:1, duration: 0.1});
+        tl.to(".project-card", { y: -100, ease: "slow", duration: 1}, "+=1.4");
         tl.to(".project-card", { scale: 1.05, ease: "slow"}, "<");
         tl.to('.project-card', {scale: 1.10, duration: 0.3}, "-=0.5");
         tl.to('.gallery > a > .project-card', {rotate: () => randomRotation(), stagger:0.05}, "-=1");

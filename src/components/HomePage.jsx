@@ -2,6 +2,7 @@ import AboutMe from "./AboutMe";
 import Gallery from "./Gallery";
 import Skills from "./Skills";
 import '../styles/HomePage.css';
+import Contact from "./Contact";
 
 export default function HomePage(){
     return(
@@ -9,6 +10,7 @@ export default function HomePage(){
             <AboutMe/>
             <Gallery/>
             <Skills/>
+            <Contact/>
         </div>
     )
 }

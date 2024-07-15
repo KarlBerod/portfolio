@@ -2,4 +2,33 @@
     padding-top: 100px;
     padding-bottom: 150px;
     opacity: 0;
+    line-height: 1.6;
+}
+
+.About-me h1{
+    font-size: 60px;
+    margin-top: -30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+    margin-bottom: 15px;
+    text-align: justify;
+    margin-top: -25px;
+}
+
+.About-me {
+    margin: auto; 
+    padding: 20px; 
+}
+
+@media (max-width: 600px) {
+    h1 {
+        font-size: 36px;
+    }
+    p {
+        font-size: 16px;
+    }
 }

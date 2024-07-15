@@ -1,0 +1,38 @@
+footer{
+    display: flex;
+    justify-content: space-around;
+    border-top: 1px solid black;
+    line-height: 1.6;
+    margin-top: 30px;
+}
+
+footer h2{
+    font-size: 40px;
+    line-height: 0.5;
+}
+
+.footer-icons{
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-icons a{
+    color: black;
+}
+
+@media(max-width: 1157px){
+    footer{
+        flex-direction: column;
+        text-align: center;
+    }
+    footer p{
+        text-align: center;
+    }
+}
+
+@media(max-width: 612px){
+    footer h2{
+        font-size: 30px;
+        line-height: 0.7;
+    }
+}
