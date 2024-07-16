@@ -17,14 +17,17 @@ export default function Header(){
     return(
         <header>
             <div className={`${isProjectPage? "displayed" : "hidden"} header-left`}>
-                <a href="/portfolio/"><i class="fa-solid fa-arrow-left fa-xl"></i></a>
+                <a href="/portfolio/">
+                    <i class="fa-solid fa-arrow-left fa-xl"></i>
+                    <span class="sr-only">Retour à l'accueil</span>
+                </a>
             </div>
             <div className={`${isProjectPage? "hidden" : "displayed"} header-right`}>
                 <nav>
                     {/* <a href="#accueil">Accueil</a> */}
-                    <a href="#projets">Projets</a>
-                    <a href="#compétences">Compétences</a>
-                    <a href="#contact">Contact</a>
+                    <a href="#projets">Projets <span class="sr-only">Voir la section "Projets"</span></a>
+                    <a href="#compétences">Compétences <span class="sr-only">Voir la section "Compétences"</span></a>
+                    <a href="#contact">Contact <span class="sr-only">Voir la section "Contact"</span></a>
                 </nav>
             </div>
         </header>
