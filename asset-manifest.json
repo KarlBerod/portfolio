@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bc701dd1.css",
-    "main.js": "/portfolio/static/js/main.753c7c35.js",
+    "main.js": "/portfolio/static/js/main.aaafa7ab.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/logo_react.webp": "/portfolio/static/media/logo_react.b6c0348bbe542a7bf40e.webp",
     "static/media/logo_argent_bank.webp": "/portfolio/static/media/logo_argent_bank.c35e767634f49ed30e5a.webp",
@@ -29,11 +29,11 @@
     "static/media/logo_javascript_45px.webp": "/portfolio/static/media/logo_javascript_45px.0a6141cb3c67f1afa6fe.webp",
     "index.html": "/portfolio/index.html",
     "main.bc701dd1.css.map": "/portfolio/static/css/main.bc701dd1.css.map",
-    "main.753c7c35.js.map": "/portfolio/static/js/main.753c7c35.js.map",
+    "main.aaafa7ab.js.map": "/portfolio/static/js/main.aaafa7ab.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc701dd1.css",
-    "static/js/main.753c7c35.js"
+    "static/js/main.aaafa7ab.js"
   ]
 }
