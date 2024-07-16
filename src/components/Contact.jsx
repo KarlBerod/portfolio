@@ -5,9 +5,9 @@ export default function Contact(){
         <footer id='contact'>
             <div>
                 <h2>Contactez-moi</h2>
-                <p>19 rue du midi, 30650 Rochefort-du-Gard</p>
-                <p>06 40 21 64 58</p>
-                <p>karl.berod@gmail.com</p>
+                <h3>19 rue du midi, 30650 Rochefort-du-Gard</p>
+                <h3>06 40 21 64 58</p>
+                <h3>karl.berod@gmail.com</p>
             </div>
             <div>
                 <h2>Retrouvez moi sur les réseaux:</h2>
