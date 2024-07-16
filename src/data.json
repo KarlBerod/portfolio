@@ -10,10 +10,10 @@
             "-Modification d'un code déjà existant"
         ],
         "pictures":[
-            "../../images/booki1.webp",
-            "../../images/booki2.webp",
-            "../../images/booki3.webp",
-            "../../images/booki4.webp"
+            "/images/booki1.webp",
+            "/images/booki2.webp",
+            "/images/booki3.webp",
+            "/images/booki4.webp"
         ],
         "github": "https://github.com/KarlBerod/Projet3_OC"
     },
@@ -28,12 +28,12 @@
             "-Création d'un loader"
         ],
         "pictures":[
-            "../../images/ohmyfood1.webp",
-            "../../images/ohmyfood2.webp",
-            "../../images/ohmyfood3.webp",
-            "../../images/ohmyfood4.webp",
-            "../../images/ohmyfood5.webp",
-            "../../images/ohmyfood6.webp"
+            "/images/ohmyfood1.webp",
+            "/images/ohmyfood2.webp",
+            "/images/ohmyfood3.webp",
+            "/images/ohmyfood4.webp",
+            "/images/ohmyfood5.webp",
+            "/images/ohmyfood6.webp"
         ],
         "github": "https://github.com/KarlBerod/Projet4_OC"
     },
@@ -64,9 +64,9 @@
             "-Utilisation d'un outil de gestion de projet (Trello)"
         ],
         "pictures":[
-            "../../images/qwenta1.webp",
-            "../../images/qwenta2.webp",
-            "../../images/qwenta3.webp"
+            "/images/qwenta1.webp",
+            "/images/qwenta2.webp",
+            "/images/qwenta3.webp"
         ],
         "github": "https://github.com/KarlBerod/Projet7_OC"
     },
@@ -81,12 +81,12 @@
             "-Création d'animations basique en combinant React et CSS"
         ],
         "pictures":[
-            "../../images/kasa1.webp",
-            "../../images/kasa2.webp",
-            "../../images/kasa3.webp",
-            "../../images/kasa4.webp",
-            "../../images/kasa5.webp",
-            "../../images/kasa6.webp"
+            "/images/kasa1.webp",
+            "/images/kasa2.webp",
+            "/images/kasa3.webp",
+            "/images/kasa4.webp",
+            "/images/kasa5.webp",
+            "/images/kasa6.webp"
         ],
         "github": "https://github.com/KarlBerod/Projet8_OC"
     },
@@ -101,10 +101,10 @@
             "-Connaissance des bonnes pratiques de développement Web"
         ],
         "pictures":[
-            "../../images/nina1.webp",
-            "../../images/nina2.webp",
-            "../../images/nina3.webp",
-            "../../images/nina4.webp"
+            "/images/nina1.webp",
+            "/images/nina2.webp",
+            "/images/nina3.webp",
+            "/images/nina4.webp"
         ],
         "github": "https://github.com/KarlBerod/Projet9_OC"
     },
@@ -119,9 +119,9 @@
             "-Mise en place des tests unitaires et fonctionnels"
         ],
         "pictures":[
-            "../../images/724events1.webp",
-            "../../images/724events2.webp",
-            "../../images/724events3.webp"
+            "/images/724events1.webp",
+            "/images/724events2.webp",
+            "/images/724events3.webp"
         ],
         "github": "https://github.com/KarlBerod/Projet10_OC"
     },
@@ -136,11 +136,11 @@
             "-Documentation d'une API avec Swagger"
         ],
         "pictures":[
-            "../../images/argent_bank1.webp",
-            "../../images/argent_bank2.webp",
-            "../../images/argent_bank3.webp",
-            "../../images/argent_bank4.webp",
-            "../../images/argent_bank5.webp"
+            "/images/argent_bank1.webp",
+            "/images/argent_bank2.webp",
+            "/images/argent_bank3.webp",
+            "/images/argent_bank4.webp",
+            "/images/argent_bank5.webp"
         ],
         "github": "https://github.com/KarlBerod/argent_bank"
     }  
