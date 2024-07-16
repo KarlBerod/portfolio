@@ -14,7 +14,10 @@ export default function Contact(){
                 <div className='footer-icons'>
                     <a href="https://www.instagram.com/beroddev/" target='_blank' rel='noreferrer'><i class="fa-brands fa-instagram fa-3x"></i></a>
                     <a href="https://www.linkedin.com/in/karlberod/" target='_blank' rel='noreferrer'><i class="fa-brands fa-linkedin fa-3x"></i></a>
-                    <a href="https://github.com/KarlBerod" target='_blank' rel='noreferrer'><i class="fa-brands fa-github fa-3x"></i></a>
+                    <a href="https://github.com/KarlBerod" target='_blank' rel='noreferrer'>
+                        <i class="fa-brands fa-github fa-3x"></i>
+                        <span class="sr-only">Visit my GitHub profile</span>
+                    </a>
                 </div>
             </div>
         </footer>
