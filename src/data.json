@@ -46,11 +46,11 @@
             "-Faire des appels à une API avec JavaScript"
         ],
         "pictures":[
-            "../../images/sophieBluel1.webp",
-            "../../images/sophieBluel2.webp",
-            "../../images/sophieBluel3.webp",
-            "../../images/sophieBluel4.webp",
-            "../../images/sophieBluel5.webp"
+            "/images/sophieBluel1.webp",
+            "/images/sophieBluel2.webp",
+            "/images/sophieBluel3.webp",
+            "/images/sophieBluel4.webp",
+            "/images/sophieBluel5.webp"
         ],
         "github": "https://github.com/KarlBerod/Projet6_OC"
     },
