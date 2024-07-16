@@ -1,12 +1,12 @@
 import '../styles/ProjectCard.css';
 
-export default function ProjectCard({logo, skill1="null", skill2="null", skill3="null", skill4="null", skill5="null"}){
+export default function ProjectCard({alt, logo, skill1="null", skill2="null", skill3="null", skill4="null", skill5="null"}){
     const skills = [skill1, skill2, skill3, skill4, skill5];
 
     return(
         <div className='project-card' >
             <div className='card-logo'>
-                <img src={logo} alt="logo" />
+                <img src={logo} alt={alt} />
             </div>
             <div className='card-skills'>
                 {skills.map((skill, index) => 

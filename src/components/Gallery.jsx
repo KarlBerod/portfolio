@@ -122,28 +122,28 @@ export default function Gallery(){
     return(
         <section className='gallery' id='projets'>
             <Link to={`/project/${data[0].id}`}>
-                <ProjectCard logo={logo_booki} skill1={logoHtml} skill2={logoCss}/>
+                <ProjectCard alt={"logo booki"} logo={logo_booki} skill1={logoHtml} skill2={logoCss}/>
             </Link>
             <Link to={`/project/${data[1].id}`}>
-                <ProjectCard logo={logo_ohmyfood} skill1={logoHtml} skill2={logoCss} skill3={logoSass}/>
+                <ProjectCard alt={"logo ohmyfood"} logo={logo_ohmyfood} skill1={logoHtml} skill2={logoCss} skill3={logoSass}/>
             </Link>
             <Link to={`/project/${data[2].id}`}>
-                <ProjectCard logo={logo_sophieBluel} skill1={logoJavascript} skill2={logoCss} />
+                <ProjectCard alt={"logo sophieBluel"} logo={logo_sophieBluel} skill1={logoJavascript} skill2={logoCss} />
             </Link>
             <Link to={`/project/${data[3].id}`}>
-                <ProjectCard logo={logo_qwenta}/>
+                <ProjectCard alt={"logo qwenta"} logo={logo_qwenta}/>
             </Link>
             <Link to={`/project/${data[4].id}`}>
-                <ProjectCard logo={logo_kasa} skill1={logoReact} skill2={logoSass}/>
+                <ProjectCard alt={"logo kasa"} logo={logo_kasa} skill1={logoReact} skill2={logoSass}/>
             </Link>
             <Link to={`/project/${data[5].id}`}>
-                <ProjectCard logo={logo_nina_carducci} skill1={logoHtml} skill2={logoCss}/>
+                <ProjectCard alt={"logo nina carducci"} logo={logo_nina_carducci} skill1={logoHtml} skill2={logoCss}/>
             </Link>
             <Link to={`/project/${data[6].id}`}>
-                <ProjectCard logo={logo_724events} skill1={logoReact} skill2={logoCss}/>
+                <ProjectCard alt={"logo 724events"} logo={logo_724events} skill1={logoReact} skill2={logoCss}/>
             </Link>
             <Link to={`/project/${data[7].id}`}>
-                <ProjectCard logo={logo_argent_bank} skill1={logoReact} skill2={logoRedux}/>
+                <ProjectCard alt={"logo argent_bank"} logo={logo_argent_bank} skill1={logoReact} skill2={logoRedux}/>
             </Link>
         </section>
     )
