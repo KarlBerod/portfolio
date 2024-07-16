@@ -8,7 +8,7 @@ import ProjectPage from './ProjectPage';
 function App() {
   return (
     <div className="App">
-      <Router >
+      <Router basename='/portfolio'>
         <Header/>
         <main>
           <Routes>
