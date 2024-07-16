@@ -7,6 +7,8 @@ export default function ProjectPage({index}){
     const [counter, setCounter]= useState(0);
     const length=data[index].pictures.length;
     const pictures=data[index].pictures;
+    const skills=data[index].skills;
+    const github=data[index].github;
 
     const addCounter = () =>{
         if (counter === length-1){
@@ -40,6 +42,11 @@ export default function ProjectPage({index}){
             <div className='project-right'>
                 <h1>{projectData.title}</h1>
                 <p>{projectData.description}</p>
+                <h2>Compétences développées: </h2>
+                {skills.map((skill, skillindex) =>(
+                    <p className={`${skillindex} projectPageSkill`}>{skill}</p>
+                ))}
+                <h2 className='githubLink'>Lien vers le repo Github du projet: <a href={github} target='_blank' rel='noreferrer'><i class="fa-brands fa-github fa-xl"></i></a></h2>
             </div>
         </section>
     );

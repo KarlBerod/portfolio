@@ -4,10 +4,10 @@
         "title": "Booki",
         "description": "Ce projet a pour but de développer une interface responsive desktop-first fidèle à une maquette figma en utilisant les languages HTML et CSS. ",
         "skills":[
-            "-Lire une maquette figma",
-            "-Découper une maquette",
-            "-Respecter un cahier des charges",
-            "-Modifier un code déjà existant"
+            "-Lecture d'une maquette figma",
+            "-Découpage d'une maquette",
+            "-Respect d'un cahier des charges",
+            "-Modification d'un code déjà existant"
         ],
         "pictures":[
             "../../images/booki1.webp",
@@ -15,16 +15,17 @@
             "../../images/booki3.webp",
             "../../images/booki4.webp"
         ],
-        "github-link": "https://github.com/KarlBerod/Projet3_OC"
+        "github": "https://github.com/KarlBerod/Projet3_OC"
     },
     {
         "id": "b9123946",
         "title": "OhMyFood",
-        "description": "Ce projet a pour but de développer un site en approche mobile-first à l'aide de sass.",
+        "description": "Ce projet a pour but de développer un site en approche mobile-first à l'aide de Sass.",
         "skills":[
             "-Utilisation de Sass",
             "-Implémentation d'animations basiques en css",
-            "-Intégrer une maquette en mobile-first"
+            "-Intégration d'une maquette en mobile-first",
+            "-Création d'un loader"
         ],
         "pictures":[
             "../../images/ohmyfood1.webp",
@@ -34,7 +35,7 @@
             "../../images/ohmyfood5.webp",
             "../../images/ohmyfood6.webp"
         ],
-        "github-link": "https://github.com/KarlBerod/Projet4_OC"
+        "github": "https://github.com/KarlBerod/Projet4_OC"
     },
     {
         "id": "46d188c5",
@@ -51,23 +52,23 @@
             "../../images/sophieBluel4.webp",
             "../../images/sophieBluel5.webp"
         ],
-        "github-link": "https://github.com/KarlBerod/Projet6_OC"
+        "github": "https://github.com/KarlBerod/Projet6_OC"
     },
     {
         "id": "7af00cd6",
         "title": "MenuMaker by Qwenta",
         "description": "Ce projet a pour but de mener à bien le rôle d'un chef de projet",
         "skills":[
-            "-Réaliser une veille technologique pour bien choisir les technologies à utiliser",
-            "-Découper le projet en tâches individuelles",
-            "-Utiliser un outil de gestion de projet (Trello)"
+            "-Réalisation d'une veille technologique pour bien choisir les technologies à utiliser",
+            "-Découpage du projet en tâches individuelles",
+            "-Utilisation d'un outil de gestion de projet (Trello)"
         ],
         "pictures":[
             "../../images/qwenta1.webp",
             "../../images/qwenta2.webp",
             "../../images/qwenta3.webp"
         ],
-        "github-link": "https://github.com/KarlBerod/Projet7_OC"
+        "github": "https://github.com/KarlBerod/Projet7_OC"
     },
     {
         "id": "0979876d",
@@ -87,7 +88,7 @@
             "../../images/kasa5.webp",
             "../../images/kasa6.webp"
         ],
-        "github-link": "https://github.com/KarlBerod/Projet8_OC"
+        "github": "https://github.com/KarlBerod/Projet8_OC"
     },
     {
         "id": "f72a452f",
@@ -105,7 +106,7 @@
             "../../images/nina3.webp",
             "../../images/nina4.webp"
         ],
-        "github-link": "https://github.com/KarlBerod/Projet9_OC"
+        "github": "https://github.com/KarlBerod/Projet9_OC"
     },
     {
         "id": "b4c67936",
@@ -113,16 +114,16 @@
         "description": "Ce projet a pour but de débuguer un site web déjà existant qui n'a pas pu être terminé par le développeur précedent",
         "skills":[
             "-Utilisation de ReactDevTools",
-            "-Identifier et localiser les bugs",
+            "-Identification et localisation des bugs",
             "-Rédiger un cahier de recette",
-            "-Mettre en place des tests unitaires et fonctionnels"
+            "-Mise en place des tests unitaires et fonctionnels"
         ],
         "pictures":[
             "../../images/724events1.webp",
             "../../images/724events2.webp",
             "../../images/724events3.webp"
         ],
-        "github-link": "https://github.com/KarlBerod/Projet10_OC"
+        "github": "https://github.com/KarlBerod/Projet10_OC"
     },
     {
         "id": "bc6f7112",
@@ -130,9 +131,9 @@
         "description": "Ce projet a pour but l'implémentation d'une application bancaire en utilisant react et redux, puis documenter l'api pour le futur du site",
         "skills":[
             "-Utilisation du store de Redux pour gérer l'état global de l'application",
-            "-Transformer un site web codé en HTML en site web React",
-            "-Elaborer un diagramme de classe à partir d'une image ou d'un croquis",
-            "-Documenter une API avec swagger"
+            "-Transformation d'un site web codé en HTML en site web React",
+            "-Elaboration d'un diagramme de classe à partir d'une image ou d'un croquis",
+            "-Documentation d'une API avec Swagger"
         ],
         "pictures":[
             "../../images/argent_bank1.webp",
@@ -141,6 +142,6 @@
             "../../images/argent_bank4.webp",
             "../../images/argent_bank5.webp"
         ],
-        "github-link": "https://github.com/KarlBerod/argent_bank"
+        "github": "https://github.com/KarlBerod/argent_bank"
     }  
 ]

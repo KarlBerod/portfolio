@@ -25,3 +25,15 @@
     font-size: 40px;
     margin-top: -20px;
 }
+
+@media(max-width:1130px){
+    .skills{
+        margin-top: 1500px;
+    }
+}
+
+@media(max-width:760px){
+    .skills{
+        margin-top: 2650px;
+    }
+}

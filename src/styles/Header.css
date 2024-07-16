@@ -1,8 +1,8 @@
 header{
     width: 100vw;
-    display: flex;
+    /* display: flex;
     justify-content: space-between;
-    flex-direction: row;
+    flex-direction: row; */
 }
 
 .header-left .fa-arrow-left{
@@ -23,6 +23,12 @@ header{
     margin: 20px 20px;
 }
 
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
 nav a{
     text-decoration: none;
     color: black;
@@ -34,4 +40,18 @@ nav a:hover{
     background-color: rgb(205, 92, 92);
 }
 
+.hidden{
+    display: none;
+}
 
+@media(max-width: 400px){
+    .header-right{
+        margin: 0px;
+    }
+    nav{
+        justify-content: left;
+    }
+    nav a{
+        padding: 10px 6px;
+    }
+}

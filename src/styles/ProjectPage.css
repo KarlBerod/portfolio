@@ -1,14 +1,35 @@
 .project-left{
-    width: 66vw;
-    height: 91vh;
-    background-color: blue;
+    width: 60vw;
     background-repeat: no-repeat;
     background-position: center;
+    background-size: contain;
+    height: calc(100vh - 80px);
 }
 .project-right{
-    background-color: red;
+    padding-left: 10px;
+    padding-right: 20px;
     height: 200px;
-    width: 50%;
+    width: 40vw;
+}
+
+.project-right h2{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.project-right .projectPageSkill{
+    line-height: 1;
+    margin-bottom: 40px;
+}
+
+.project-right h2 a{
+    color: black;
+    border-radius: 50%;
+    padding: 2px;
+}
+
+.project-right h2 a:hover{
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .project-page{
@@ -20,7 +41,7 @@
     width: 50px;
     height: 50px;
     margin: 0px 10px;
-    fill: white;
+    fill: dimgray;
 }
 
 .arrows{
@@ -31,7 +52,8 @@
 }
 
 .pagination{
-    color: white;
+    font-size: 24px;
+    color: dimgray;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -40,4 +62,23 @@
 .project-right h1{
     font-size: 40px;
     text-align: center;
+}
+
+@media(max-width:1200px){
+    .project-left{
+        width: 100vw;
+    }
+
+    .project-page{
+        flex-direction: column;
+        align-items: center;
+    }
+    .project-right{
+        padding-left: 10px;
+        padding-right: 10px;
+        width: 80vw;
+    }
+    .githubLink{
+        padding-bottom:  40px;
+    }
 }

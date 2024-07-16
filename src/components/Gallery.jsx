@@ -14,16 +14,15 @@ import logo_ohmyfood from '../images/logo_ohmyfood.webp'
 import logo_qwenta from '../images/logo_qwenta.webp'
 import logo_sophieBluel from '../images/logo_sophieBluel.webp'
 import logoHtml from '../images/logo_html_45px.webp'
-// import logoC from '../images/logo_c++_45px.webp'
 import logoCss from '../images/logo_css_45px.webp'
-// import logoGsap from '../images/logo_gsap_45px.webp'
 import logoJavascript from '../images/logo_javascript_45px.webp'
-// import logoPython from '../images/logo_python_45px.webp'
 import logoReact from '../images/logo_react_45px.webp'
 import logoRedux from '../images/logo_redux_45px.webp'
 import logoSass from '../images/logo_sass_45px.webp'
 // import logoSql from '../images/logo_sql_45px.webp'
-
+// import logoC from '../images/logo_c++_45px.webp'
+// import logoPython from '../images/logo_python_45px.webp'
+// import logoGsap from '../images/logo_gsap_45px.webp'
 gsap.registerPlugin(ScrollTrigger);
 
 export default function Gallery(){
@@ -121,7 +120,7 @@ export default function Gallery(){
     }
     
     return(
-        <div className='gallery'>
+        <section className='gallery' id='projets'>
             <Link to={`/project/${data[0].id}`}>
                 <ProjectCard logo={logo_booki} skill1={logoHtml} skill2={logoCss}/>
             </Link>
@@ -146,6 +145,6 @@ export default function Gallery(){
             <Link to={`/project/${data[7].id}`}>
                 <ProjectCard logo={logo_argent_bank} skill1={logoReact} skill2={logoRedux}/>
             </Link>
-        </div>
+        </section>
     )
 }
