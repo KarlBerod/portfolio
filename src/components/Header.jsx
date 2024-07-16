@@ -17,7 +17,7 @@ export default function Header(){
     return(
         <header>
             <div className={`${isProjectPage? "displayed" : "hidden"} header-left`}>
-                <a href="/"><i class="fa-solid fa-arrow-left fa-xl"></i></a>
+                <a href="/portfolio"><i class="fa-solid fa-arrow-left fa-xl"></i></a>
             </div>
             <div className={`${isProjectPage? "hidden" : "displayed"} header-right`}>
                 <nav>
