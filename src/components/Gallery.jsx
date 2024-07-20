@@ -19,6 +19,8 @@ import logoJavascript from '../images/logo_javascript_45px.webp'
 import logoReact from '../images/logo_react_45px.webp'
 import logoRedux from '../images/logo_redux_45px.webp'
 import logoSass from '../images/logo_sass_45px.webp'
+import logoInoreader from '../images/logo_inoreader_45px.webp'
+import logoTrello from '../images/logo_trello_45px.webp'
 // import logoSql from '../images/logo_sql_45px.webp'
 // import logoC from '../images/logo_c++_45px.webp'
 // import logoPython from '../images/logo_python_45px.webp'
@@ -131,7 +133,7 @@ export default function Gallery(){
                 <ProjectCard alt={"logo sophieBluel"} logo={logo_sophieBluel} skill1={logoJavascript} skill2={logoCss} />
             </Link>
             <Link to={`/project/${data[3].id}`}>
-                <ProjectCard alt={"logo qwenta"} logo={logo_qwenta}/>
+                <ProjectCard alt={"logo qwenta"} logo={logo_qwenta} skill1={logoInoreader} skill2={logoTrello}/>
             </Link>
             <Link to={`/project/${data[4].id}`}>
                 <ProjectCard alt={"logo kasa"} logo={logo_kasa} skill1={logoReact} skill2={logoSass}/>

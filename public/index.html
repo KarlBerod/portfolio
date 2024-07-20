@@ -8,6 +8,17 @@
       name="description"
       content="Portfolio du développeur front-end junior Karl Berod"
     />
+
+    <meta property="og:title" content="Karl Berod" />
+    <meta property="og:description" content="Portfolio du développeur Front-end Karl Berod" />
+    <meta property="og:url" content="https://karlberod.github.io/portfolio/" />
+    <meta property="og:image" content="" />
+    <meta property="og:type" content="website" />
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Karl Berod">
+    <meta name="twitter:description" content="Portfolio du développeur Front-end Karl Berod">
+    <meta name="twitter:image" content="">
     <!--
       manifest.json provides metadata used when your web app is installed on a
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
@@ -22,6 +33,33 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <title>Portfolio Karl Berod</title>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Person",
+            "name": "Karl Berod",
+            "jobTitle": "Développeur Front-end",
+            "url": "https://karlberod.github.io/portfolio/",
+            "sameAs": [
+              "https://www.linkedin.com/in/karlberod/",
+              "https://github.com/KarlBerod"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "name": "Portfolio de Karl Berod",
+            "url": "https://karlberod.github.io/portfolio/",
+          },
+          {
+            "@type": "Skill",
+            "name": "Développement Front-end",
+            "description": "Maîtrise des technologies HTML, CSS, JavaScript, et frameworks modernes tels que React ou GSAP"
+          }
+        ]
+      }
+      </script>
     <script src="https://kit.fontawesome.com/19f13f9ee2.js" crossorigin="anonymous"></script>
   </head>
   <body>

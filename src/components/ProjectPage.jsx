@@ -4,9 +4,9 @@ import { useState } from 'react';
 
 export default function ProjectPage({index}){
     const projectData= data[index];
+    const pictures = window.innerWidth < 700 ? projectData.phonePictures : projectData.pictures;
     const [counter, setCounter]= useState(0);
-    const length=data[index].pictures.length;
-    const pictures=data[index].pictures;
+    const length=pictures.length;
     const skills=data[index].skills;
     const github=data[index].github;
 

@@ -15,6 +15,10 @@
             "/images/booki3.webp",
             "/images/booki4.webp"
         ],
+        "phonePictures":[
+            "/images/booki3.webp",
+            "/images/booki4.webp"
+        ],
         "github": "https://github.com/KarlBerod/Projet3_OC"
     },
     {
@@ -35,6 +39,11 @@
             "/images/ohmyfood5.webp",
             "/images/ohmyfood6.webp"
         ],
+        "phonePictures":[
+            "/images/ohmyfood4.webp",
+            "/images/ohmyfood5.webp",
+            "/images/ohmyfood6.webp"
+        ],
         "github": "https://github.com/KarlBerod/Projet4_OC"
     },
     {
@@ -46,6 +55,13 @@
             "-Faire des appels à une API avec JavaScript"
         ],
         "pictures":[
+            "/images/sophieBluel1.webp",
+            "/images/sophieBluel2.webp",
+            "/images/sophieBluel3.webp",
+            "/images/sophieBluel4.webp",
+            "/images/sophieBluel5.webp"
+        ],
+        "phonePictures":[
             "/images/sophieBluel1.webp",
             "/images/sophieBluel2.webp",
             "/images/sophieBluel3.webp",
@@ -68,6 +84,10 @@
             "/images/qwenta2.webp",
             "/images/qwenta3.webp"
         ],
+        "phonePictures":[
+            "/images/qwenta2.webp",
+            "/images/qwenta4.webp"
+        ],
         "github": "https://github.com/KarlBerod/Projet7_OC"
     },
     {
@@ -81,12 +101,17 @@
             "-Création d'animations basique en combinant React et CSS"
         ],
         "pictures":[
-            "/images/kasa1.webp",
-            "/images/kasa2.webp",
-            "/images/kasa3.webp",
             "/images/kasa4.webp",
             "/images/kasa5.webp",
-            "/images/kasa6.webp"
+            "/images/kasa6.webp",
+            "/images/kasa3.webp",
+            "/images/kasa1.webp",
+            "/images/kasa2.webp"
+        ],
+        "phonePictures":[
+            "/images/kasa6.webp",
+            "/images/kasa3.webp",
+            "/images/kasa2.webp"
         ],
         "github": "https://github.com/KarlBerod/Projet8_OC"
     },
@@ -101,6 +126,12 @@
             "-Connaissance des bonnes pratiques de développement Web"
         ],
         "pictures":[
+            "/images/nina1.webp",
+            "/images/nina2.webp",
+            "/images/nina3.webp",
+            "/images/nina4.webp"
+        ],
+        "phonePictures":[
             "/images/nina1.webp",
             "/images/nina2.webp",
             "/images/nina3.webp",
@@ -123,6 +154,10 @@
             "/images/724events2.webp",
             "/images/724events3.webp"
         ],
+        "phonePictures":[
+            "/images/724events4.webp",
+            "/images/724events5.webp"
+        ],
         "github": "https://github.com/KarlBerod/Projet10_OC"
     },
     {
@@ -141,6 +176,11 @@
             "/images/argent_bank3.webp",
             "/images/argent_bank4.webp",
             "/images/argent_bank5.webp"
+        ],
+        "phonePictures":[
+            "/images/argent_bank2.webp",
+            "/images/argent_bank3.webp",
+            "/images/argent_bank4.webp"
         ],
         "github": "https://github.com/KarlBerod/argent_bank"
     }  
