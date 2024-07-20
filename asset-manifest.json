@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4ca27e71.css",
-    "main.js": "/portfolio/static/js/main.e578285f.js",
+    "main.js": "/portfolio/static/js/main.c9cca005.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/logo_react.webp": "/portfolio/static/media/logo_react.b6c0348bbe542a7bf40e.webp",
     "static/media/logo_argent_bank.webp": "/portfolio/static/media/logo_argent_bank.c35e767634f49ed30e5a.webp",
@@ -24,16 +24,18 @@
     "static/media/logo_html.webp": "/portfolio/static/media/logo_html.29a035b2804d990a295b.webp",
     "static/media/logo_css.webp": "/portfolio/static/media/logo_css.4631fc583adc2618336c.webp",
     "static/media/logo_html_45px.webp": "/portfolio/static/media/logo_html_45px.fa7b06793da2f7bbda5e.webp",
+    "index.html": "/portfolio/index.html",
     "static/media/logo_css_45px.webp": "/portfolio/static/media/logo_css_45px.4eb61af1a52e88fa3ab3.webp",
     "static/media/logo_sass_45px.webp": "/portfolio/static/media/logo_sass_45px.3b48ef7ca225b0ed9ec0.webp",
+    "static/media/logo_inoreader_45px.webp": "/portfolio/static/media/logo_inoreader_45px.469c6ac3a67d1f1e0139.webp",
     "static/media/logo_javascript_45px.webp": "/portfolio/static/media/logo_javascript_45px.0a6141cb3c67f1afa6fe.webp",
-    "index.html": "/portfolio/index.html",
+    "static/media/logo_trello_45px.webp": "/portfolio/static/media/logo_trello_45px.cc1a6437dec87425586a.webp",
     "main.4ca27e71.css.map": "/portfolio/static/css/main.4ca27e71.css.map",
-    "main.e578285f.js.map": "/portfolio/static/js/main.e578285f.js.map",
+    "main.c9cca005.js.map": "/portfolio/static/js/main.c9cca005.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ca27e71.css",
-    "static/js/main.e578285f.js"
+    "static/js/main.c9cca005.js"
   ]
 }
